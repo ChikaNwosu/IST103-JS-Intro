@@ -12,7 +12,7 @@ let isEmployed = true;
 console.log(personName + " has a " + eyecolour + " eyes.");
 
 if(!isMarried){
-    console.log("Get marry with me!")
+    console.log("Get married to me!")
 } else {
     console.log("I love you!")
 }
